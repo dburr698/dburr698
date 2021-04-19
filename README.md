@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dburr698
 - 👀 I’m interested in software development, creating apps and games, and learning more about automation. 
 - 🌱 I’m currently learning C++ and have some practice with Java and Python.
-- 💞️ I’m looking to collaborate on anything really, I am mostly looking to gain some experience.
+- 💞️ I’m looking to collaborate with experienced professionals that I can learn from.
 - 📫 You can reach me at d.burrell698@gmail.com
 
 <!---
